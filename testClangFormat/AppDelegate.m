@@ -8,8 +8,6 @@
 
 #import "AppDelegate.h"
 
-
-
 @interface AppDelegate ()
 
 @end
