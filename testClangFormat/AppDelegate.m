@@ -11,15 +11,8 @@
 @interface AppDelegate ()
 
 @end
-// clang-format off
 
-
-
-
-
-
-        @implementation AppDelegate
-// clang-format on
+@implementation AppDelegate
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     return YES;
