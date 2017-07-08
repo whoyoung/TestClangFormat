@@ -8,23 +8,9 @@
 
 #import "AppDelegate.h"
 
+@interface AppDelegate ()
 
-
-
-
-
-
-    @interface AppDelegate ()
-
-
-
-    @end
-
-
-
-
-
-
+@end
 
 @implementation AppDelegate
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
