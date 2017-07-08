@@ -16,7 +16,9 @@
 
 
 
-@implementation AppDelegate
+
+
+        @implementation AppDelegate
 // clang-format on
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
