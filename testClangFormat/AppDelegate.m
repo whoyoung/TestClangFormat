@@ -15,9 +15,7 @@
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application
-    didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
-
-{
+    didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
   return YES;
 }
 
