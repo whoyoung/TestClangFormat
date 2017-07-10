@@ -1,3 +1,4 @@
+#pragma Formatter Exempt
 //
 //  AppDelegate.m
 //  testClangFormat
@@ -12,6 +13,8 @@
 @interface AppDelegate ()
 
 @end
+
+
 
 
 @implementation AppDelegate
